@@ -9,9 +9,7 @@
                   [adzerk/boot-cljs-repl   "0.3.0"]
                   [com.cemerick/piggieback "0.2.1"  :scope "test"]
                   [weasel                  "0.7.0"  :scope "test"]
-                  [org.clojure/tools.nrepl "0.2.12" :scope "test"]
-
-                  [org.omcljs/om "1.0.0-alpha22"]])
+                  [org.clojure/tools.nrepl "0.2.12" :scope "test"]])
 
 (require '[adzerk.boot-reload :refer [reload]]
          '[adzerk.boot-cljs :refer :all]

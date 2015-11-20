@@ -1,0 +1,3 @@
+{:require  [siliconboard.core]
+ :main "js"
+ :compiler-options {:asset-path "js/main.out"}}
